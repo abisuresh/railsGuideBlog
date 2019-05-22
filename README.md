@@ -1,5 +1,7 @@
 # README
 
+This is a blog created using the ruby on rails guides tutorial on: https://guides.rubyonrails.org/getting_started.html#creating-the-blog-application
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
